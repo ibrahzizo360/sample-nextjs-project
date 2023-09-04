@@ -1,4 +1,4 @@
-import { DynamicObject } from "@/common/interfaces";
+import { DynamicObject } from "@/common/interfaces/index";
 import { RequestOption } from "../base";
 
 

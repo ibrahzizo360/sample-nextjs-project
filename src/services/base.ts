@@ -1,5 +1,5 @@
 import { joinUrls } from "@/common";
-import { DynamicObject } from "@/common/interfaces";
+import { DynamicObject } from "@/common/interfaces/index";
 import { ErrorResponse } from "@/common/interfaces/error";
 import { SuccessResponse } from "@/common/interfaces/response";
 import { BaseHttpHandler, HttpHandlerError, _Response } from "./http_handlers/httpHandler";
